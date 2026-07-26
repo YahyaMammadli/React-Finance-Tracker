@@ -1,0 +1,1888 @@
+{
+  "users": [
+    {
+      "id": "645d613d-b05d-40d3-a509-ce4de11f55c4",
+      "username": "Yahya123",
+      "password": "7fcf4ba391c48784edde599889d6e3f1e47a27db36ecc050cc92f259bfac38afad2c68a1ae804d77075e8fb722503f3eca2b2c1006ee6f6c7b7628cb45fffd1d",
+      "role": "user",
+      "createdAt": "2026-06-30T20:27:48.341Z"
+    },
+    {
+      "id": "c21095e7-545d-4586-9dd5-2dd9445daae4",
+      "username": "Yahya121",
+      "password": "c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec",
+      "role": "user",
+      "createdAt": "2026-07-01T22:21:29.036Z"
+    },
+    {
+      "id": "9e891dbf-a766-44e7-a515-38626ea1feb6",
+      "username": "bob",
+      "password": "d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db",
+      "role": "user",
+      "createdAt": "2026-07-01T22:39:58.387Z"
+    },
+    {
+      "id": "20d9457b-bddd-410a-b228-8bcc4e49a0b9",
+      "username": "bobjhjh",
+      "password": "3d70bda816d7093084c07ad3f5b786347c4358fb73c3891b56e3afc41e39ee6a3e653b78e4e4c4af119c2d10fbbe0c79b25b17319383f77d179b6e33bdfde6e7",
+      "role": "user",
+      "createdAt": "2026-07-01T23:45:13.618Z"
+    },
+    {
+      "id": "66999cc2-514c-4c96-b58e-846abd7ec6d0",
+      "username": "wew",
+      "password": "3627909a29c31381a071ec27f7c9ca97726182aed29a7ddd2e54353322cfb30abb9e3a6df2ac2c20fe23436311d678564d0c8d305930575f60e2d3d048184d79",
+      "role": "user",
+      "createdAt": "2026-07-01T23:50:21.201Z"
+    },
+    {
+      "id": "87662974-7a66-4fdb-8eca-bab58815f7f8",
+      "username": "Jingo",
+      "password": "3627909a29c31381a071ec27f7c9ca97726182aed29a7ddd2e54353322cfb30abb9e3a6df2ac2c20fe23436311d678564d0c8d305930575f60e2d3d048184d79",
+      "role": "user",
+      "createdAt": "2026-07-06T20:23:22.996Z"
+    },
+    {
+      "id": "53c14016-f85a-4e48-8302-6230c75047fc",
+      "username": "mammadaqa",
+      "password": "a2f1ae8a47024d6dd07db5b0bd4758fe7a6049aaa18fbedbbc3a39e071d26a6aa9e04a338e5559834cb85ab2b6530a086fa11a8cbef5f633ad8c723a82e2a072",
+      "role": "user",
+      "createdAt": "2026-07-10T18:16:32.993Z"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "a-001",
+      "name": "Cash",
+      "type": "cash",
+      "currency": "AZN",
+      "color": "#27ae60",
+      "icon": "💵",
+      "balance": 99999999999923400000,
+      "createdAt": "2025-11-22T12:00:00.000Z"
+    },
+    {
+      "id": "a-002",
+      "name": "Kapital Bank Card",
+      "type": "card",
+      "currency": "AZN",
+      "color": "#2980b9",
+      "icon": "💳",
+      "balance": 4036.67,
+      "createdAt": "2025-11-22T12:00:00.000Z"
+    },
+    {
+      "id": "a-003",
+      "name": "Savings",
+      "type": "savings",
+      "currency": "AZN",
+      "color": "#8e44ad",
+      "icon": "🏦",
+      "balance": 76463354,
+      "createdAt": "2025-11-22T12:00:00.000Z"
+    },
+    {
+      "id": "5f5e1384-004c-4900-95d2-2c68fc165f04",
+      "userId": "20d9457b-bddd-410a-b228-8bcc4e49a0b9",
+      "name": "Cash",
+      "type": "cash",
+      "balance": 0,
+      "currency": "AZN",
+      "color": "#27ae60",
+      "icon": "💵",
+      "createdAt": "2026-07-01T23:45:13.618Z"
+    },
+    {
+      "id": "94b1308c-5566-4771-914d-d76b14fb65b5",
+      "userId": "66999cc2-514c-4c96-b58e-846abd7ec6d0",
+      "name": "Cash",
+      "type": "cash",
+      "balance": 99999900,
+      "currency": "AZN",
+      "color": "#27ae60",
+      "icon": "💵",
+      "createdAt": "2026-07-01T23:50:21.201Z"
+    },
+    {
+      "id": "b508117f-a662-43f6-8d11-8cfc21626f39",
+      "userId": "87662974-7a66-4fdb-8eca-bab58815f7f8",
+      "name": "Cash",
+      "type": "cash",
+      "balance": 99999820,
+      "currency": "AZN",
+      "color": "#27ae60",
+      "icon": "💵",
+      "createdAt": "2026-07-06T20:23:22.996Z"
+    },
+    {
+      "id": "a64cfe25-a013-4e61-af3e-19a67af84140",
+      "userId": "53c14016-f85a-4e48-8302-6230c75047fc",
+      "name": "Cash",
+      "type": "cash",
+      "balance": 99999815,
+      "currency": "AZN",
+      "color": "#27ae60",
+      "icon": "💵",
+      "createdAt": "2026-07-10T18:16:32.993Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "t-013",
+      "currency": "AZN",
+      "tags": [
+        "car",
+        "fuel"
+      ],
+      "isRecurring": false,
+      "description": "Fuel",
+      "time": "09:16",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 52.99,
+      "category": "transport",
+      "date": "2026-03-13",
+      "createdAt": "2026-03-13T12:00:00.000Z"
+    },
+    {
+      "id": "t-014",
+      "currency": "AZN",
+      "tags": [
+        "metro"
+      ],
+      "isRecurring": false,
+      "description": "BakuCard top-up",
+      "time": "09:34",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 7.58,
+      "category": "transport",
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T12:00:00.000Z"
+    },
+    {
+      "id": "t-015",
+      "currency": "AZN",
+      "tags": [
+        "cinema"
+      ],
+      "isRecurring": false,
+      "description": "Cinema (CinemaPlus)",
+      "time": "17:51",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 19.12,
+      "category": "entertainment",
+      "date": "2026-03-14",
+      "createdAt": "2026-03-14T12:00:00.000Z"
+    },
+    {
+      "id": "t-016",
+      "currency": "AZN",
+      "tags": [
+        "clothes"
+      ],
+      "isRecurring": false,
+      "description": "Clothes",
+      "time": "20:08",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 87.07,
+      "category": "shopping",
+      "date": "2026-03-15",
+      "createdAt": "2026-03-15T12:00:00.000Z"
+    },
+    {
+      "id": "t-017",
+      "currency": "AZN",
+      "tags": [
+        "groceries"
+      ],
+      "isRecurring": false,
+      "description": "Groceries at Bravo",
+      "time": "09:09",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 56.77,
+      "category": "food",
+      "date": "2026-03-16",
+      "createdAt": "2026-03-16T12:00:00.000Z"
+    },
+    {
+      "id": "t-018",
+      "currency": "AZN",
+      "tags": [
+        "car",
+        "fuel"
+      ],
+      "isRecurring": false,
+      "description": "Fuel",
+      "time": "17:35",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 52.29,
+      "category": "transport",
+      "date": "2026-03-17",
+      "createdAt": "2026-03-17T12:00:00.000Z"
+    },
+    {
+      "id": "t-019",
+      "currency": "AZN",
+      "tags": [
+        "subscription"
+      ],
+      "isRecurring": false,
+      "description": "Netflix subscription",
+      "time": "12:04",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 16,
+      "category": "entertainment",
+      "date": "2026-03-18",
+      "createdAt": "2026-03-18T12:00:00.000Z"
+    },
+    {
+      "id": "t-021",
+      "currency": "AZN",
+      "tags": [
+        "lunch"
+      ],
+      "isRecurring": false,
+      "description": "Lunch at work",
+      "time": "10:21",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 8.26,
+      "category": "food",
+      "date": "2026-03-19",
+      "createdAt": "2026-03-19T12:00:00.000Z"
+    },
+    {
+      "id": "t-020",
+      "currency": "AZN",
+      "tags": [
+        "taxi"
+      ],
+      "isRecurring": false,
+      "description": "Bolt ride",
+      "time": "11:25",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 12.96,
+      "category": "transport",
+      "date": "2026-03-19",
+      "createdAt": "2026-03-19T12:00:00.000Z"
+    },
+    {
+      "id": "t-022",
+      "currency": "AZN",
+      "tags": [
+        "internet"
+      ],
+      "isRecurring": false,
+      "description": "Internet (CityNet)",
+      "time": "13:37",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 25,
+      "category": "housing",
+      "date": "2026-03-20",
+      "createdAt": "2026-03-20T12:00:00.000Z"
+    },
+    {
+      "id": "t-023",
+      "currency": "AZN",
+      "tags": [
+        "internet"
+      ],
+      "isRecurring": false,
+      "description": "Internet (CityNet)",
+      "time": "18:25",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 25,
+      "category": "housing",
+      "date": "2026-03-20",
+      "createdAt": "2026-03-20T12:00:00.000Z"
+    },
+    {
+      "id": "t-024",
+      "currency": "AZN",
+      "tags": [
+        "music"
+      ],
+      "isRecurring": false,
+      "description": "Concert tickets",
+      "time": "18:37",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 61.19,
+      "category": "entertainment",
+      "date": "2026-03-21",
+      "createdAt": "2026-03-21T12:00:00.000Z"
+    },
+    {
+      "id": "t-025",
+      "currency": "AZN",
+      "tags": [
+        "taxi"
+      ],
+      "isRecurring": false,
+      "description": "Bolt ride",
+      "time": "12:32",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 4.12,
+      "category": "transport",
+      "date": "2026-03-22",
+      "createdAt": "2026-03-22T12:00:00.000Z"
+    },
+    {
+      "id": "t-027",
+      "currency": "AZN",
+      "tags": [
+        "cinema"
+      ],
+      "isRecurring": false,
+      "description": "Cinema (CinemaPlus)",
+      "time": "10:49",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 11.74,
+      "category": "entertainment",
+      "date": "2026-03-24",
+      "createdAt": "2026-03-24T12:00:00.000Z"
+    },
+    {
+      "id": "t-026",
+      "currency": "AZN",
+      "tags": [
+        "cinema"
+      ],
+      "isRecurring": false,
+      "description": "Cinema (CinemaPlus)",
+      "time": "20:35",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 11.38,
+      "category": "entertainment",
+      "date": "2026-03-24",
+      "createdAt": "2026-03-24T12:00:00.000Z"
+    },
+    {
+      "id": "t-028",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "19:20",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 31.09,
+      "category": "education",
+      "date": "2026-03-25",
+      "createdAt": "2026-03-25T12:00:00.000Z"
+    },
+    {
+      "id": "t-029",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "17:30",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 36.99,
+      "category": "other",
+      "date": "2026-03-27",
+      "createdAt": "2026-03-27T12:00:00.000Z"
+    },
+    {
+      "id": "t-030",
+      "currency": "AZN",
+      "tags": [],
+      "isRecurring": false,
+      "description": "Haircut",
+      "time": "20:56",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 15.3,
+      "category": "other",
+      "date": "2026-03-30",
+      "createdAt": "2026-03-30T12:00:00.000Z"
+    },
+    {
+      "id": "t-031",
+      "currency": "AZN",
+      "tags": [
+        "gym"
+      ],
+      "isRecurring": false,
+      "description": "Gym membership",
+      "time": "15:13",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 50,
+      "category": "health",
+      "date": "2026-03-31",
+      "createdAt": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "id": "t-033",
+      "currency": "AZN",
+      "tags": [
+        "online-course"
+      ],
+      "isRecurring": false,
+      "description": "Udemy course",
+      "time": "12:03",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 33.28,
+      "category": "education",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T12:00:00.000Z"
+    },
+    {
+      "id": "t-032",
+      "currency": "AZN",
+      "tags": [
+        "subscription"
+      ],
+      "isRecurring": false,
+      "description": "Netflix subscription",
+      "time": "17:17",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 16,
+      "category": "entertainment",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T12:00:00.000Z"
+    },
+    {
+      "id": "t-003",
+      "currency": "AZN",
+      "tags": [
+        "rent"
+      ],
+      "isRecurring": true,
+      "description": "Apartment rent",
+      "time": "17:31",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 600,
+      "category": "housing",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T12:00:00.000Z"
+    },
+    {
+      "id": "t-035",
+      "currency": "AZN",
+      "tags": [
+        "restaurant"
+      ],
+      "isRecurring": false,
+      "description": "Dinner with friends",
+      "time": "11:10",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 31.27,
+      "category": "food",
+      "date": "2026-04-04",
+      "createdAt": "2026-04-04T12:00:00.000Z"
+    },
+    {
+      "id": "t-034",
+      "currency": "AZN",
+      "tags": [
+        "subscription"
+      ],
+      "isRecurring": false,
+      "description": "Netflix subscription",
+      "time": "18:56",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 16,
+      "category": "entertainment",
+      "date": "2026-04-04",
+      "createdAt": "2026-04-04T12:00:00.000Z"
+    },
+    {
+      "id": "t-036",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "09:11",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 21.55,
+      "category": "education",
+      "date": "2026-04-05",
+      "createdAt": "2026-04-05T12:00:00.000Z"
+    },
+    {
+      "id": "t-001",
+      "currency": "AZN",
+      "tags": [
+        "work"
+      ],
+      "isRecurring": true,
+      "description": "Monthly salary",
+      "time": "15:31",
+      "accountId": "a-002",
+      "type": "income",
+      "amount": 2200,
+      "category": "salary",
+      "date": "2026-04-05",
+      "createdAt": "2026-04-05T12:00:00.000Z"
+    },
+    {
+      "id": "t-004",
+      "currency": "AZN",
+      "tags": [
+        "savings"
+      ],
+      "isRecurring": true,
+      "description": "Monthly savings transfer",
+      "time": "10:02",
+      "accountId": "a-002",
+      "toAccountId": "a-003",
+      "type": "transfer",
+      "amount": 400,
+      "category": "other",
+      "date": "2026-04-06",
+      "createdAt": "2026-04-06T12:00:00.000Z"
+    },
+    {
+      "id": "t-037",
+      "currency": "AZN",
+      "tags": [
+        "clothes"
+      ],
+      "isRecurring": false,
+      "description": "Clothes",
+      "time": "19:04",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 41.02,
+      "category": "shopping",
+      "date": "2026-04-06",
+      "createdAt": "2026-04-06T12:00:00.000Z"
+    },
+    {
+      "id": "t-038",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "13:32",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 22.95,
+      "category": "education",
+      "date": "2026-04-07",
+      "createdAt": "2026-04-07T12:00:00.000Z"
+    },
+    {
+      "id": "t-039",
+      "currency": "AZN",
+      "tags": [
+        "online-course"
+      ],
+      "isRecurring": false,
+      "description": "Udemy course",
+      "time": "13:18",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 30.07,
+      "category": "education",
+      "date": "2026-04-08",
+      "createdAt": "2026-04-08T12:00:00.000Z"
+    },
+    {
+      "id": "t-040",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "09:04",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 38.73,
+      "category": "other",
+      "date": "2026-04-09",
+      "createdAt": "2026-04-09T12:00:00.000Z"
+    },
+    {
+      "id": "t-041",
+      "currency": "AZN",
+      "tags": [
+        "gadgets"
+      ],
+      "isRecurring": false,
+      "description": "Electronics accessory",
+      "time": "15:53",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 59,
+      "category": "shopping",
+      "date": "2026-04-09",
+      "createdAt": "2026-04-09T12:00:00.000Z"
+    },
+    {
+      "id": "t-042",
+      "currency": "AZN",
+      "tags": [
+        "gadgets"
+      ],
+      "isRecurring": false,
+      "description": "Electronics accessory",
+      "time": "13:24",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 23.49,
+      "category": "shopping",
+      "date": "2026-04-10",
+      "createdAt": "2026-04-10T12:00:00.000Z"
+    },
+    {
+      "id": "t-043",
+      "currency": "AZN",
+      "tags": [
+        "groceries"
+      ],
+      "isRecurring": false,
+      "description": "Groceries at Bravo",
+      "time": "17:36",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 55.74,
+      "category": "food",
+      "date": "2026-04-10",
+      "createdAt": "2026-04-10T12:00:00.000Z"
+    },
+    {
+      "id": "t-044",
+      "currency": "AZN",
+      "tags": [
+        "music"
+      ],
+      "isRecurring": false,
+      "description": "Concert tickets",
+      "time": "18:33",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 40.96,
+      "category": "entertainment",
+      "date": "2026-04-11",
+      "createdAt": "2026-04-11T12:00:00.000Z"
+    },
+    {
+      "id": "t-045",
+      "currency": "AZN",
+      "tags": [
+        "restaurant"
+      ],
+      "isRecurring": false,
+      "description": "Dinner with friends",
+      "time": "11:42",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 30.73,
+      "category": "food",
+      "date": "2026-04-12",
+      "createdAt": "2026-04-12T12:00:00.000Z"
+    },
+    {
+      "id": "t-046",
+      "currency": "AZN",
+      "tags": [
+        "restaurant"
+      ],
+      "isRecurring": false,
+      "description": "Dinner with friends",
+      "time": "10:50",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 30.15,
+      "category": "food",
+      "date": "2026-04-15",
+      "createdAt": "2026-04-15T12:00:00.000Z"
+    },
+    {
+      "id": "t-047",
+      "currency": "AZN",
+      "tags": [
+        "utilities"
+      ],
+      "isRecurring": false,
+      "description": "Utilities payment",
+      "time": "13:37",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 101.23,
+      "category": "housing",
+      "date": "2026-04-16",
+      "createdAt": "2026-04-16T12:00:00.000Z"
+    },
+    {
+      "id": "t-048",
+      "currency": "AZN",
+      "tags": [
+        "internet"
+      ],
+      "isRecurring": false,
+      "description": "Internet (CityNet)",
+      "time": "09:02",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 25,
+      "category": "housing",
+      "date": "2026-04-17",
+      "createdAt": "2026-04-17T12:00:00.000Z"
+    },
+    {
+      "id": "t-049",
+      "currency": "AZN",
+      "tags": [
+        "restaurant"
+      ],
+      "isRecurring": false,
+      "description": "Dinner with friends",
+      "time": "17:23",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 59.85,
+      "category": "food",
+      "date": "2026-04-18",
+      "createdAt": "2026-04-18T12:00:00.000Z"
+    },
+    {
+      "id": "t-002",
+      "currency": "AZN",
+      "tags": [
+        "side-hustle"
+      ],
+      "isRecurring": false,
+      "description": "Freelance project payment",
+      "time": "17:45",
+      "accountId": "a-002",
+      "type": "income",
+      "amount": 624,
+      "category": "freelance",
+      "date": "2026-04-18",
+      "createdAt": "2026-04-18T12:00:00.000Z"
+    },
+    {
+      "id": "t-051",
+      "currency": "AZN",
+      "tags": [
+        "gadgets"
+      ],
+      "isRecurring": false,
+      "description": "Electronics accessory",
+      "time": "17:06",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 28.74,
+      "category": "shopping",
+      "date": "2026-04-21",
+      "createdAt": "2026-04-21T12:00:00.000Z"
+    },
+    {
+      "id": "t-050",
+      "currency": "AZN",
+      "tags": [
+        "restaurant"
+      ],
+      "isRecurring": false,
+      "description": "Dinner with friends",
+      "time": "19:26",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 55.65,
+      "category": "food",
+      "date": "2026-04-21",
+      "createdAt": "2026-04-21T12:00:00.000Z"
+    },
+    {
+      "id": "t-052",
+      "currency": "AZN",
+      "tags": [
+        "online-course"
+      ],
+      "isRecurring": false,
+      "description": "Udemy course",
+      "time": "15:42",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 24.57,
+      "category": "education",
+      "date": "2026-04-22",
+      "createdAt": "2026-04-22T12:00:00.000Z"
+    },
+    {
+      "id": "t-053",
+      "currency": "AZN",
+      "tags": [
+        "lunch"
+      ],
+      "isRecurring": false,
+      "description": "Lunch at work",
+      "time": "12:20",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 13.32,
+      "category": "food",
+      "date": "2026-04-23",
+      "createdAt": "2026-04-23T12:00:00.000Z"
+    },
+    {
+      "id": "t-054",
+      "currency": "AZN",
+      "tags": [
+        "metro"
+      ],
+      "isRecurring": false,
+      "description": "BakuCard top-up",
+      "time": "14:14",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 7.88,
+      "category": "transport",
+      "date": "2026-04-25",
+      "createdAt": "2026-04-25T12:00:00.000Z"
+    },
+    {
+      "id": "t-055",
+      "currency": "AZN",
+      "tags": [
+        "coffee"
+      ],
+      "isRecurring": false,
+      "description": "Coffee",
+      "time": "17:49",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 7.23,
+      "category": "food",
+      "date": "2026-04-26",
+      "createdAt": "2026-04-26T12:00:00.000Z"
+    },
+    {
+      "id": "t-056",
+      "currency": "AZN",
+      "tags": [
+        "online-course"
+      ],
+      "isRecurring": false,
+      "description": "Udemy course",
+      "time": "13:05",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 29.89,
+      "category": "education",
+      "date": "2026-04-28",
+      "createdAt": "2026-04-28T12:00:00.000Z"
+    },
+    {
+      "id": "t-057",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "20:15",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 46.87,
+      "category": "other",
+      "date": "2026-04-28",
+      "createdAt": "2026-04-28T12:00:00.000Z"
+    },
+    {
+      "id": "t-058",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "16:03",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 53.84,
+      "category": "other",
+      "date": "2026-04-29",
+      "createdAt": "2026-04-29T12:00:00.000Z"
+    },
+    {
+      "id": "t-059",
+      "currency": "AZN",
+      "tags": [
+        "groceries"
+      ],
+      "isRecurring": false,
+      "description": "Groceries at Bravo",
+      "time": "16:05",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 35.05,
+      "category": "food",
+      "date": "2026-04-30",
+      "createdAt": "2026-04-30T12:00:00.000Z"
+    },
+    {
+      "id": "t-060",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "16:31",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 34.31,
+      "category": "other",
+      "date": "2026-04-30",
+      "createdAt": "2026-04-30T12:00:00.000Z"
+    },
+    {
+      "id": "t-061",
+      "currency": "AZN",
+      "tags": [
+        "taxi"
+      ],
+      "isRecurring": false,
+      "description": "Bolt ride",
+      "time": "16:35",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 6.08,
+      "category": "transport",
+      "date": "2026-05-01",
+      "createdAt": "2026-05-01T12:00:00.000Z"
+    },
+    {
+      "id": "t-012",
+      "currency": "AZN",
+      "tags": [
+        "birthday"
+      ],
+      "isRecurring": false,
+      "description": "Birthday gift from family",
+      "time": "18:57",
+      "accountId": "a-001",
+      "type": "income",
+      "amount": 150,
+      "category": "gift",
+      "date": "2026-05-01",
+      "createdAt": "2026-05-01T12:00:00.000Z"
+    },
+    {
+      "id": "t-062",
+      "currency": "AZN",
+      "tags": [
+        "online-course"
+      ],
+      "isRecurring": false,
+      "description": "Udemy course",
+      "time": "20:08",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 33.68,
+      "category": "education",
+      "date": "2026-05-02",
+      "createdAt": "2026-05-02T12:00:00.000Z"
+    },
+    {
+      "id": "t-063",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "20:08",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 31.3,
+      "category": "other",
+      "date": "2026-05-02",
+      "createdAt": "2026-05-02T12:00:00.000Z"
+    },
+    {
+      "id": "t-064",
+      "currency": "AZN",
+      "tags": [
+        "metro"
+      ],
+      "isRecurring": false,
+      "description": "BakuCard top-up",
+      "time": "12:32",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 5.13,
+      "category": "transport",
+      "date": "2026-05-03",
+      "createdAt": "2026-05-03T12:00:00.000Z"
+    },
+    {
+      "id": "t-007",
+      "currency": "AZN",
+      "tags": [
+        "rent"
+      ],
+      "isRecurring": true,
+      "description": "Apartment rent",
+      "time": "13:15",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 600,
+      "category": "housing",
+      "date": "2026-05-03",
+      "createdAt": "2026-05-03T12:00:00.000Z"
+    },
+    {
+      "id": "t-065",
+      "currency": "AZN",
+      "tags": [
+        "car",
+        "fuel"
+      ],
+      "isRecurring": false,
+      "description": "Fuel",
+      "time": "13:18",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 46.2,
+      "category": "transport",
+      "date": "2026-05-04",
+      "createdAt": "2026-05-04T12:00:00.000Z"
+    },
+    {
+      "id": "t-005",
+      "currency": "AZN",
+      "tags": [
+        "work"
+      ],
+      "isRecurring": true,
+      "description": "Monthly salary",
+      "time": "11:17",
+      "accountId": "a-002",
+      "type": "income",
+      "amount": 2200,
+      "category": "salary",
+      "date": "2026-05-05",
+      "createdAt": "2026-05-05T12:00:00.000Z"
+    },
+    {
+      "id": "t-008",
+      "currency": "AZN",
+      "tags": [
+        "savings"
+      ],
+      "isRecurring": true,
+      "description": "Monthly savings transfer",
+      "time": "10:53",
+      "accountId": "a-002",
+      "toAccountId": "a-003",
+      "type": "transfer",
+      "amount": 400,
+      "category": "other",
+      "date": "2026-05-06",
+      "createdAt": "2026-05-06T12:00:00.000Z"
+    },
+    {
+      "id": "t-066",
+      "currency": "AZN",
+      "tags": [
+        "online-course"
+      ],
+      "isRecurring": false,
+      "description": "Udemy course",
+      "time": "19:11",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 31.48,
+      "category": "education",
+      "date": "2026-05-06",
+      "createdAt": "2026-05-06T12:00:00.000Z"
+    },
+    {
+      "id": "t-067",
+      "currency": "AZN",
+      "tags": [
+        "metro"
+      ],
+      "isRecurring": false,
+      "description": "BakuCard top-up",
+      "time": "12:23",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 9.84,
+      "category": "transport",
+      "date": "2026-05-10",
+      "createdAt": "2026-05-10T12:00:00.000Z"
+    },
+    {
+      "id": "t-068",
+      "currency": "AZN",
+      "tags": [
+        "utilities"
+      ],
+      "isRecurring": false,
+      "description": "Utilities payment",
+      "time": "20:14",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 95.55,
+      "category": "housing",
+      "date": "2026-05-11",
+      "createdAt": "2026-05-11T12:00:00.000Z"
+    },
+    {
+      "id": "t-069",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "09:48",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 29.39,
+      "category": "education",
+      "date": "2026-05-12",
+      "createdAt": "2026-05-12T12:00:00.000Z"
+    },
+    {
+      "id": "t-071",
+      "currency": "AZN",
+      "tags": [
+        "subscription"
+      ],
+      "isRecurring": false,
+      "description": "Netflix subscription",
+      "time": "13:27",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 16,
+      "category": "entertainment",
+      "date": "2026-05-15",
+      "createdAt": "2026-05-15T12:00:00.000Z"
+    },
+    {
+      "id": "t-070",
+      "currency": "AZN",
+      "tags": [
+        "lunch"
+      ],
+      "isRecurring": false,
+      "description": "Lunch at work",
+      "time": "13:38",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 17.79,
+      "category": "food",
+      "date": "2026-05-15",
+      "createdAt": "2026-05-15T12:00:00.000Z"
+    },
+    {
+      "id": "t-072",
+      "currency": "AZN",
+      "tags": [
+        "groceries"
+      ],
+      "isRecurring": false,
+      "description": "Groceries at Bravo",
+      "time": "12:11",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 62.64,
+      "category": "food",
+      "date": "2026-05-17",
+      "createdAt": "2026-05-17T12:00:00.000Z"
+    },
+    {
+      "id": "t-073",
+      "currency": "AZN",
+      "tags": [
+        "online-course"
+      ],
+      "isRecurring": false,
+      "description": "Udemy course",
+      "time": "16:45",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 25.01,
+      "category": "education",
+      "date": "2026-05-17",
+      "createdAt": "2026-05-17T12:00:00.000Z"
+    },
+    {
+      "id": "t-074",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "14:53",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 59.14,
+      "category": "other",
+      "date": "2026-05-18",
+      "createdAt": "2026-05-18T12:00:00.000Z"
+    },
+    {
+      "id": "t-006",
+      "currency": "AZN",
+      "tags": [
+        "side-hustle"
+      ],
+      "isRecurring": false,
+      "description": "Freelance project payment",
+      "time": "17:40",
+      "accountId": "a-002",
+      "type": "income",
+      "amount": 649,
+      "category": "freelance",
+      "date": "2026-05-18",
+      "createdAt": "2026-05-18T12:00:00.000Z"
+    },
+    {
+      "id": "t-075",
+      "currency": "AZN",
+      "tags": [
+        "utilities"
+      ],
+      "isRecurring": false,
+      "description": "Utilities payment",
+      "time": "18:28",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 64.6,
+      "category": "housing",
+      "date": "2026-05-21",
+      "createdAt": "2026-05-21T12:00:00.000Z"
+    },
+    {
+      "id": "t-076",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "09:20",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 37.04,
+      "category": "education",
+      "date": "2026-05-22",
+      "createdAt": "2026-05-22T12:00:00.000Z"
+    },
+    {
+      "id": "t-077",
+      "currency": "AZN",
+      "tags": [],
+      "isRecurring": false,
+      "description": "Haircut",
+      "time": "12:53",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 22.82,
+      "category": "other",
+      "date": "2026-05-22",
+      "createdAt": "2026-05-22T12:00:00.000Z"
+    },
+    {
+      "id": "t-078",
+      "currency": "AZN",
+      "tags": [
+        "internet"
+      ],
+      "isRecurring": false,
+      "description": "Internet (CityNet)",
+      "time": "16:42",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 25,
+      "category": "housing",
+      "date": "2026-05-23",
+      "createdAt": "2026-05-23T12:00:00.000Z"
+    },
+    {
+      "id": "t-079",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "10:24",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 36.65,
+      "category": "education",
+      "date": "2026-05-24",
+      "createdAt": "2026-05-24T12:00:00.000Z"
+    },
+    {
+      "id": "t-081",
+      "currency": "AZN",
+      "tags": [
+        "clothes"
+      ],
+      "isRecurring": false,
+      "description": "Clothes",
+      "time": "10:21",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 114.3,
+      "category": "shopping",
+      "date": "2026-05-25",
+      "createdAt": "2026-05-25T12:00:00.000Z"
+    },
+    {
+      "id": "t-080",
+      "currency": "AZN",
+      "tags": [
+        "metro"
+      ],
+      "isRecurring": false,
+      "description": "BakuCard top-up",
+      "time": "20:57",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 5.42,
+      "category": "transport",
+      "date": "2026-05-25",
+      "createdAt": "2026-05-25T12:00:00.000Z"
+    },
+    {
+      "id": "t-083",
+      "currency": "AZN",
+      "tags": [
+        "taxi"
+      ],
+      "isRecurring": false,
+      "description": "Bolt ride",
+      "time": "10:35",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 7.74,
+      "category": "transport",
+      "date": "2026-05-26",
+      "createdAt": "2026-05-26T12:00:00.000Z"
+    },
+    {
+      "id": "t-082",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "17:20",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 58.72,
+      "category": "other",
+      "date": "2026-05-26",
+      "createdAt": "2026-05-26T12:00:00.000Z"
+    },
+    {
+      "id": "t-085",
+      "currency": "AZN",
+      "tags": [
+        "car",
+        "fuel"
+      ],
+      "isRecurring": false,
+      "description": "Fuel",
+      "time": "19:34",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 59.87,
+      "category": "transport",
+      "date": "2026-05-27",
+      "createdAt": "2026-05-27T12:00:00.000Z"
+    },
+    {
+      "id": "t-084",
+      "currency": "AZN",
+      "tags": [
+        "utilities"
+      ],
+      "isRecurring": false,
+      "description": "Utilities payment",
+      "time": "19:47",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 63.07,
+      "category": "housing",
+      "date": "2026-05-27",
+      "createdAt": "2026-05-27T12:00:00.000Z"
+    },
+    {
+      "id": "t-086",
+      "currency": "AZN",
+      "tags": [
+        "restaurant"
+      ],
+      "isRecurring": false,
+      "description": "Dinner with friends",
+      "time": "20:17",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 36.67,
+      "category": "food",
+      "date": "2026-05-28",
+      "createdAt": "2026-05-28T12:00:00.000Z"
+    },
+    {
+      "id": "t-087",
+      "currency": "AZN",
+      "tags": [
+        "gift"
+      ],
+      "isRecurring": false,
+      "description": "Gift for a friend",
+      "time": "17:37",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 58.17,
+      "category": "other",
+      "date": "2026-05-29",
+      "createdAt": "2026-05-29T12:00:00.000Z"
+    },
+    {
+      "id": "t-088",
+      "currency": "AZN",
+      "tags": [
+        "clothes"
+      ],
+      "isRecurring": false,
+      "description": "Clothes",
+      "time": "11:27",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 79.2,
+      "category": "shopping",
+      "date": "2026-05-30",
+      "createdAt": "2026-05-30T12:00:00.000Z"
+    },
+    {
+      "id": "t-089",
+      "currency": "AZN",
+      "tags": [
+        "coffee"
+      ],
+      "isRecurring": false,
+      "description": "Coffee",
+      "time": "13:17",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 4.94,
+      "category": "food",
+      "date": "2026-06-01",
+      "createdAt": "2026-06-01T12:00:00.000Z"
+    },
+    {
+      "id": "t-010",
+      "currency": "AZN",
+      "tags": [
+        "rent"
+      ],
+      "isRecurring": true,
+      "description": "Apartment rent",
+      "time": "14:16",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 600,
+      "category": "housing",
+      "date": "2026-06-03",
+      "createdAt": "2026-06-03T12:00:00.000Z"
+    },
+    {
+      "id": "t-090",
+      "currency": "AZN",
+      "tags": [
+        "taxi"
+      ],
+      "isRecurring": false,
+      "description": "Bolt ride",
+      "time": "14:50",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 14.28,
+      "category": "transport",
+      "date": "2026-06-05",
+      "createdAt": "2026-06-05T12:00:00.000Z"
+    },
+    {
+      "id": "t-009",
+      "currency": "AZN",
+      "tags": [
+        "work"
+      ],
+      "isRecurring": true,
+      "description": "Monthly salary",
+      "time": "19:50",
+      "accountId": "a-002",
+      "type": "income",
+      "amount": 2200,
+      "category": "salary",
+      "date": "2026-06-05",
+      "createdAt": "2026-06-05T12:00:00.000Z"
+    },
+    {
+      "id": "t-092",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "16:31",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 28.64,
+      "category": "education",
+      "date": "2026-06-06",
+      "createdAt": "2026-06-06T12:00:00.000Z"
+    },
+    {
+      "id": "t-011",
+      "currency": "AZN",
+      "tags": [
+        "savings"
+      ],
+      "isRecurring": true,
+      "description": "Monthly savings transfer",
+      "time": "19:02",
+      "accountId": "a-002",
+      "toAccountId": "a-003",
+      "type": "transfer",
+      "amount": 400,
+      "category": "other",
+      "date": "2026-06-06",
+      "createdAt": "2026-06-06T12:00:00.000Z"
+    },
+    {
+      "id": "t-091",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "19:49",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 21.51,
+      "category": "education",
+      "date": "2026-06-06",
+      "createdAt": "2026-06-06T12:00:00.000Z"
+    },
+    {
+      "id": "t-093",
+      "currency": "AZN",
+      "tags": [
+        "clothes"
+      ],
+      "isRecurring": false,
+      "description": "Clothes",
+      "time": "12:11",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 130.54,
+      "category": "shopping",
+      "date": "2026-06-07",
+      "createdAt": "2026-06-07T12:00:00.000Z"
+    },
+    {
+      "id": "t-094",
+      "currency": "AZN",
+      "tags": [
+        "metro"
+      ],
+      "isRecurring": false,
+      "description": "BakuCard top-up",
+      "time": "20:55",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 5.81,
+      "category": "transport",
+      "date": "2026-06-07",
+      "createdAt": "2026-06-07T12:00:00.000Z"
+    },
+    {
+      "id": "t-095",
+      "currency": "AZN",
+      "tags": [
+        "pharmacy"
+      ],
+      "isRecurring": false,
+      "description": "Pharmacy",
+      "time": "17:50",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 16.95,
+      "category": "health",
+      "date": "2026-06-09",
+      "createdAt": "2026-06-09T12:00:00.000Z"
+    },
+    {
+      "id": "t-096",
+      "currency": "AZN",
+      "tags": [
+        "groceries"
+      ],
+      "isRecurring": false,
+      "description": "Groceries at Bravo",
+      "time": "09:54",
+      "accountId": "a-002",
+      "type": "expense",
+      "amount": 36.08,
+      "category": "food",
+      "date": "2026-06-10",
+      "createdAt": "2026-06-10T12:00:00.000Z"
+    },
+    {
+      "id": "t-097",
+      "currency": "AZN",
+      "tags": [
+        "books"
+      ],
+      "isRecurring": false,
+      "description": "Books",
+      "time": "20:52",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 24.56,
+      "category": "education",
+      "date": "2026-06-10",
+      "createdAt": "2026-06-10T12:00:00.000Z"
+    },
+    {
+      "id": "4dfd4f50-bf95-454d-9b9c-e00c425343d0",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 875876578,
+      "currency": "AZN",
+      "category": "education",
+      "description": "idk",
+      "date": "2026-07-01",
+      "time": "12:00",
+      "tags": [
+        "6"
+      ],
+      "isRecurring": false,
+      "createdAt": "2026-07-01T22:32:59.772Z"
+    },
+    {
+      "id": "5c28f7bb-bfc4-4ddd-86da-8ae9e37408fc",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 8678,
+      "currency": "USD",
+      "category": "health",
+      "description": "nbjk",
+      "date": "2026-07-01",
+      "time": "12:00",
+      "tags": [],
+      "isRecurring": false,
+      "createdAt": "2026-07-01T22:33:32.621Z"
+    },
+    {
+      "id": "8449b6f0-b773-4009-a7ae-231b36e07ad4",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 2222,
+      "currency": "EUR",
+      "category": "health",
+      "description": "",
+      "date": "2026-07-01",
+      "time": "12:00",
+      "tags": [],
+      "isRecurring": false,
+      "createdAt": "2026-07-01T22:35:00.172Z"
+    },
+    {
+      "id": "dbcd89fe-0d8f-41c6-8d6e-93af5dcd75d5",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 2323,
+      "currency": "USD",
+      "category": "health",
+      "description": "wewe",
+      "date": "2026-07-01",
+      "time": "12:00",
+      "tags": [
+        "we"
+      ],
+      "isRecurring": false,
+      "createdAt": "2026-07-01T22:35:36.034Z"
+    },
+    {
+      "id": "5981bd6e-98df-492a-8c32-3b54b0bd9345",
+      "accountId": "a-001",
+      "type": "expense",
+      "amount": 123444,
+      "currency": "USD",
+      "category": "health",
+      "description": "b lmk",
+      "date": "2026-07-01",
+      "time": "12:00",
+      "tags": [
+        "6546"
+      ],
+      "isRecurring": false,
+      "createdAt": "2026-07-01T22:36:22.731Z"
+    },
+    {
+      "id": "b64f6b16-f40f-45e5-8ef1-4b7dbd43f3a0",
+      "accountId": "a-001",
+      "type": "transfer",
+      "amount": 76457654,
+      "currency": "AZN",
+      "category": "health",
+      "description": "",
+      "date": "2026-07-01",
+      "time": "12:00",
+      "tags": [],
+      "isRecurring": false,
+      "createdAt": "2026-07-01T22:38:10.059Z",
+      "toAccountId": "a-003"
+    },
+    {
+      "id": "92e5ce21-4222-4102-965b-bd409652b041",
+      "accountId": "b508117f-a662-43f6-8d11-8cfc21626f39",
+      "type": "expense",
+      "amount": 180,
+      "currency": "AZN",
+      "originalAmount": 100,
+      "originalCurrency": "EUR",
+      "category": "food",
+      "description": "",
+      "date": "2026-07-06",
+      "time": "12:00",
+      "tags": [],
+      "isRecurring": false,
+      "createdAt": "2026-07-06T20:48:08.154Z"
+    },
+    {
+      "id": "9558bf9c-a7e9-4c60-8ed1-5ae1b979703a",
+      "accountId": "a64cfe25-a013-4e61-af3e-19a67af84140",
+      "type": "expense",
+      "amount": 85,
+      "currency": "AZN",
+      "originalAmount": 50,
+      "originalCurrency": "USD",
+      "category": "food",
+      "description": "",
+      "date": "2026-07-10",
+      "time": "12:00",
+      "tags": [],
+      "isRecurring": false,
+      "createdAt": "2026-07-10T18:19:19.386Z"
+    },
+    {
+      "id": "f4f575a4-9a19-4b4c-9016-b2837906f7e4",
+      "accountId": "a64cfe25-a013-4e61-af3e-19a67af84140",
+      "type": "expense",
+      "amount": 100,
+      "currency": "AZN",
+      "originalAmount": 100,
+      "originalCurrency": "AZN",
+      "category": "health",
+      "description": "",
+      "date": "2026-07-10",
+      "time": "12:00",
+      "tags": [],
+      "isRecurring": false,
+      "createdAt": "2026-07-10T18:29:45.111Z"
+    },
+    {
+      "id": "aa96beba-72c0-4d6b-88eb-1c906883bec7",
+      "accountId": "94b1308c-5566-4771-914d-d76b14fb65b5",
+      "type": "expense",
+      "amount": 100,
+      "currency": "AZN",
+      "originalAmount": 100,
+      "originalCurrency": "AZN",
+      "category": "transport",
+      "description": "1111",
+      "date": "2026-07-18",
+      "time": "12:00",
+      "tags": [],
+      "isRecurring": false,
+      "createdAt": "2026-07-18T10:53:57.714Z"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "a2dfe3c8-f09f-45b3-96cd-2ba766c736b3",
+      "userId": "87662974-7a66-4fdb-8eca-bab58815f7f8",
+      "category": "food",
+      "amount": 1000,
+      "currency": "AZN",
+      "period": "monthly",
+      "startDate": "2026-06-30",
+      "endDate": "2026-07-30"
+    },
+    {
+      "id": "a3de9cba-2bcc-468c-b8ff-b737c26d6e14",
+      "userId": "53c14016-f85a-4e48-8302-6230c75047fc",
+      "category": "food",
+      "amount": 1500,
+      "currency": "AZN",
+      "period": "monthly",
+      "startDate": "2026-06-30",
+      "endDate": "2026-07-30"
+    },
+    {
+      "id": "9483950c-a091-4b6d-97d1-1dd0f8d52671",
+      "userId": "66999cc2-514c-4c96-b58e-846abd7ec6d0",
+      "category": "food",
+      "amount": 1000,
+      "currency": "USD",
+      "period": "monthly",
+      "startDate": "2026-06-30",
+      "endDate": "2026-07-30"
+    }
+  ],
+  "goals": [
+    {
+      "id": "931cc6f4-992e-4c05-95d7-a00c0c19f9d7",
+      "userId": "66999cc2-514c-4c96-b58e-846abd7ec6d0",
+      "title": "SHAHIN KILL",
+      "targetAmount": 1000,
+      "currentAmount": 100,
+      "currency": "USD",
+      "deadline": "2027-01-01",
+      "icon": "😎",
+      "color": "#3498db",
+      "status": "active",
+      "createdAt": "2026-07-16T14:48:31.825Z"
+    }
+  ]
+}
