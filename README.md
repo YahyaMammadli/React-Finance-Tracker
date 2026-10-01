@@ -242,11 +242,16 @@ See the extended API documentation in the backend source code.
 ### Transactions
 ![Transactions](./screenshots/transactions.png)
 
-### Analytics
-![Analytics](./screenshots/analytics.png)
+### Goals
+![Budgets](./screenshots/budgets.png)
 
 ### Goals
 ![Goals](./screenshots/goals.png)
+
+### Analytics
+![Analytics](./screenshots/analytics.png)
+
+
 
 ---
 
